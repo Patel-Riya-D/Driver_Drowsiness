@@ -39,7 +39,7 @@ Alarm Sound: Plays a 1000Hz beep for 2 seconds on Windows.
 
 🔊 Cross-platform alarm (Linux/Mac support).
 
-👄 Add yawn detection (Mouth Aspect Ratio).
+🚨 Add yawn detection (Mouth Aspect Ratio).
 
 📝 Log drowsiness events with timestamps.
 
